@@ -1,7 +1,7 @@
 # Python-Assignment-3-While-Loop-For-Loop-and-Function
 
 ## Topics Covered
--While Loop
+- While Loop
 - For Loop
 - Fuction
 ##  Programs Included
